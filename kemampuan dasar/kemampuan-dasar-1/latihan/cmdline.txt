@@ -1,0 +1,20 @@
+1. PS C:\Users\Casciavit> Get-Command  
+2. PS C:\Users\Casciavit> Get-Service "vm*"    
+3. PS C:\Users\Casciavit> defrag C: /U /V       
+4. PS C:\Users\Casciavit> exit    
+5. PS C:\Users\Casciavit> clear    
+6. PS C:\Users\Casciavit> ping google.com   
+7. PS C:\Users\Casciavit> PowerShell.exe -ExecutionPolicy Restricted  
+8. PS C:\Users\Casciavit> tree \   
+9. PS C:\Users\Casciavit> md Directory1
+10 PS C:\Users\Casciavit> md \Taxes >> cd \Taxes >> md Property >> cd Property >> md Current
+11.PS C:\Users\Casciavit> cd Directory1
+12.PS C:\Users\Casciavit> ipconfig   
+13.PS C:\Users\Casciavit> dir  
+14.PS C:\Users\Casciavit> Compare OK  
+15.PS C:\Users\Casciavit> netstat -e -s  
+16.PS C:\Users\Casciavit> whoami     
+17.PS C:\Users\Casciavit> $PSVersionTable.BuildVersion 
+18.PS C:\Users\Casciavit> tracert corp7.microsoft.com  
+19.PS C:\Users\Casciavit> cscript prnport -l -s Server1  
+20.PS C:\Users\Casciavit> nbtstat /A 10.0.0.99 
