@@ -6,5 +6,6 @@ let kata = new Map([
 
 kata.set('egg', 'telur');
 kata.delete('onion');
+clear
 
 console.log(kata.get('onion'));
