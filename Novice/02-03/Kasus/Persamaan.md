@@ -1,4 +1,4 @@
 #### Persamaan RamdaJs, LodashJS, dan UnderscoreJs
-* Library dalam javascript
-* Lisensi MIT
-* memudahkan penerapan functional programming
+* Merupakan library dalam javascript
+* Memiliki lisensi MIT
+* Memudahkan penerapan functional programming
