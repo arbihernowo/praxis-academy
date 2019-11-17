@@ -1,0 +1,1 @@
+Source : https://github.com/mdn/js-examples/tree/master/modules/module-objects
